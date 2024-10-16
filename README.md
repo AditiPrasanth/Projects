@@ -1,2 +1,2 @@
 # Projects
-few projects done by me at college 
+few projects done by me while in college 
